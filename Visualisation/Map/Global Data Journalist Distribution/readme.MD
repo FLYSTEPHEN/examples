@@ -8,5 +8,5 @@ The tools and process:
 
 - Get the geographical data from the `geopy-raw.csv` file.
 - Get the other information of a journalist from `journalists-data-including-github-contributions.csv`
-- Use pandas to curate and restructure all the data source
+- Use `aggregate()` to accumulate each journalist's Github contribution data from 2008
 - Use plotly to visualize the map
