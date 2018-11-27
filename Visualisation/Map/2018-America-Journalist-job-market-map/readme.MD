@@ -5,5 +5,6 @@ In this map, the key data is the number of opening positions in each state of th
 
 The tools and process:
 - Get the data from `0 jobs.csv`
+- Code the states of the U.S into their abbreviations
 - Use pandas to curate and restructure all the data source
 - Use plotly to visualize the map
